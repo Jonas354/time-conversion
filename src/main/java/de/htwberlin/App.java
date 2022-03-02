@@ -2,6 +2,8 @@ package de.htwberlin;
 
 public class App {
 
+
+  // test comment
   public static void main(String[] args) {
     String s1 = "07:05:45 PM";
     String s2 = "07:05:45 AM";
